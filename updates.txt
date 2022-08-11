@@ -1,0 +1,14 @@
+busses fuel allocation
+machinery/generators - company (institute) or home
+company quota
+agriculture and fisheries
+
+quota decided by the government
+
+emergency quota 
+
+traffic data from google maps for queue details/time
+
+dont consider extra vehicles
+
+include the government entity to obtain the relevant data
